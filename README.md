@@ -12,7 +12,9 @@ Exception Handling: Handle cases where a customer is not found in the system.
 
 # Questions or Clarifications
 Should the system handle different types of coupons or only "get one free" coupons?
+
 Should the system allow customers to redeem multiple coupons in a single transaction?
+
 How should the system handle updates to customer preferences?
 
 
